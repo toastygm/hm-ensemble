@@ -117,5 +117,5 @@ The following compendium packs (and their contents) are available:
 * 5 Guard Commanders (Feudal Guardsman, Heavy)
 
 # Credits
-The "Extras" lists contents were generated from (HarnChar)[https://www.lythia.com/game_aides/harnchar/] and imported into Foundry VTT
+The "Extras" lists contents were generated from [HarnChar](https://www.lythia.com/game_aides/harnchar/) and imported into Foundry VTT
 
