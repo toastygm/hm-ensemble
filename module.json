@@ -1,0 +1,58 @@
+{
+  "name": "hm-ensemble",
+  "title": "Harn Ensemble of NPCs",
+  "description": "Miscellaneous NPCs for use with HarnMAster for Foundry VTT",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.6",
+  "minimumSystemVersion": "1.2.16",
+  "systems": ["hm3"],
+  "author": "toastygm",
+  "packs": [
+    {
+      "entity": "Actor",
+      "label": "Extras: Nobles",
+      "name": "extras-nobles",
+      "path": "packs/extras-nobles.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "Extras: Serfs and Slaves",
+      "name": "extras-serfs-slaves",
+      "path": "packs/extras-serfs-slaves.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "Extras: Shek-Pvar",
+      "name": "extras-shek-pvar",
+      "path": "packs/extras-shek-pvar.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "Extras: Unguilded",
+      "name": "extras-unguilded",
+      "path": "packs/extras-unguilded.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "Extras: Guilded",
+      "name": "extras-guilded",
+      "path": "packs/extras-guilded.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "Extras: Guards",
+      "name": "extras-guards",
+      "path": "packs/extras-guards.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "Extras: Clerics",
+      "name": "extras-clerics",
+      "path": "packs/extras-clerics.db"
+    }
+  ],
+  "url": "https://github.com/toastygm/hm-ensemble/",
+  "manifest": "https://raw.githubusercontent.com/toastygm/hm-ensemble/master/module.json",
+  "download": "https://github.com/toastygm/hm-ensemble/archive/v0.1.0.zip"
+}
