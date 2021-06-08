@@ -1,5 +1,4 @@
-# hm-ensemble
-Cast of NPCs for HarnMaster on Foundry VTT
+# Ensemble of NPCs for HarnMaster on Foundry VTT
 
 This Foundry VTT module contains several compendium packs containing NPCs for you to use in your games.  The concept was to create a large set of pre-generated characters that can easily be pulled into your game as needed, of various occupations and abilities.
 
