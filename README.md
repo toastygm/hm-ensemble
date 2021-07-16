@@ -115,6 +115,23 @@ The following compendium packs (and their contents) are available:
 * 20 Guard Captains (Feudal Guardsman, Heavy)
 * 5 Guard Commanders (Feudal Guardsman, Heavy)
 
+**FFF Gargun** - 14 total gargun and 1 odious Shek-Pvar
+* 704a Fyvrian Shek-Pvar - Mabresen
+* 801a Gargu-Viasal King - Margum
+* 804a Gargu-Viasal Warrior - Feazurk
+* 801b Gargu-Hyeka King - Kaeuck
+* 804f Gargu-Araki Thief - “Fetch”
+* 803b Gargu-Kyani Princess - Tabeas
+* 801c Gargu-Hyeka King - Drogor
+* 803a Gargu-Khanu Warrior Princess - Gana
+* 804g Gargun Warrior - Borka
+* 802b Gargu-Hyeka Queen - Umaka
+* 804d Gargu-Araki Warrior - Bran
+* 804e Gargu-Khanu Warrior - Pinka
+* 802a Gargu-Araki Queen - Feeri
+* 804c Gargu-Khanu Gladiator - Akeur
+* 804b Gargu-Kyani Hunter - Taatulk
+
 # Credits
 The "Extras" lists contents were generated from [HarnChar](https://www.lythia.com/game_aides/harnchar/) and imported into Foundry VTT
-
+The "FFF Gargun" are from "Friends, Foes, and Followers - Part 13" (https://www.lythia.com/game_aides/fff-gargu/) on Lythia.com, by Shawn Bond with artwork by Richard Luschek, and edited by Brent Bailey and Kerry Mould.
