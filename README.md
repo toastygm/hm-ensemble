@@ -133,5 +133,7 @@ The following compendium packs (and their contents) are available:
 * 804b Gargu-Kyani Hunter - Taatulk
 
 # Credits
-The "Extras" lists contents were generated from [HarnChar](https://www.lythia.com/game_aides/harnchar/) and imported into Foundry VTT
+
+The "Extras" lists contents were generated from [HarnChar](https://www.lythia.com/game_aides/harnchar/) and imported into Foundry VTT.
+
 The "FFF Gargun" are from "Friends, Foes, and Followers - Part 13" (https://www.lythia.com/game_aides/fff-gargu/) on Lythia.com, by Shawn Bond with artwork by Richard Luschek, and edited by Brent Bailey and Kerry Mould.
