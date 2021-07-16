@@ -137,3 +137,5 @@ The following compendium packs (and their contents) are available:
 The "Extras" lists contents were generated from [HarnChar](https://www.lythia.com/game_aides/harnchar/) and imported into Foundry VTT.
 
 The "FFF Gargun" are from "Friends, Foes, and Followers - Part 13" (https://www.lythia.com/game_aides/fff-gargu/) on Lythia.com, by Shawn Bond with artwork by Richard Luschek, and edited by Brent Bailey and Kerry Mould.
+
+This module is "[Fanon](https://www.lythia.com/about/publishing-fan-written-material/)", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
