@@ -1,74 +1,92 @@
 {
-  "name": "hm-ensemble",
+  "id": "hm-ensemble",
   "title": "Harn Ensemble of NPCs",
   "description": "Miscellaneous NPCs for use with HarnMAster for Foundry VTT",
-  "version": "1.1.3",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.9",
-  "minimumSystemVersion": "1.2.19",
-  "system": ["hm3"],
+  "version": "1.2.0",
   "bugs": "https://github.com/toastygm/hm-ensemble/issues",
   "license": "LICENSE",
   "readme": "README.md",
   "authors": [
     {
       "name": "Toasty",
-      "discord": "toasty#8538"
+      "discord": "toasty#8538",
+      "flags": {}
     }
   ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
   "packs": [
     {
-      "entity": "Actor",
+      "type": "Actor",
       "label": "Extras: Nobles",
       "name": "extras-nobles",
-      "path": "packs/extras-nobles.db"
+      "system": "hm3",
+      "path": "packs/extras-nobles.db",
+      "flags": {}
     },
     {
-      "entity": "Actor",
+      "type": "Actor",
       "label": "Extras: Serfs and Slaves",
       "name": "extras-serfs-slaves",
-      "path": "packs/extras-serfs-slaves.db"
+      "system": "hm3",
+      "path": "packs/extras-serfs-slaves.db",
+      "flags": {}
     },
     {
-      "entity": "Actor",
+      "type": "Actor",
       "label": "Extras: Shek-Pvar",
       "name": "extras-shek-pvar",
-      "path": "packs/extras-shek-pvar.db"
+      "system": "hm3",
+      "path": "packs/extras-shek-pvar.db",
+      "flags": {}
     },
     {
-      "entity": "Actor",
+      "type": "Actor",
       "label": "Extras: Unguilded",
       "name": "extras-unguilded",
-      "path": "packs/extras-unguilded.db"
+      "system": "hm3",
+      "path": "packs/extras-unguilded.db",
+      "flags": {}
     },
     {
-      "entity": "Actor",
+      "type": "Actor",
       "label": "Extras: Guilded",
       "name": "extras-guilded",
-      "path": "packs/extras-guilded.db"
+      "system": "hm3",
+      "path": "packs/extras-guilded.db",
+      "flags": {}
     },
     {
-      "entity": "Actor",
+      "type": "Actor",
       "label": "Extras: Guards",
       "name": "extras-guards",
-      "path": "packs/extras-guards.db"
+      "system": "hm3",
+      "path": "packs/extras-guards.db",
+      "flags": {}
     },
     {
-      "entity": "Actor",
+      "type": "Actor",
       "label": "Extras: Clerics",
       "name": "extras-clerics",
-      "path": "packs/extras-clerics.db"
+      "system": "hm3",
+      "path": "packs/extras-clerics.db",
+      "flags": {}
     },
     {
-      "entity": "Actor",
+      "type": "Actor",
       "label": "FFF Gargun",
       "name": "fff-gargun",
-      "path": "packs/fff-gargun.db"
+      "system": "hm3",
+      "path": "packs/fff-gargun.db",
+      "flags": {}
     }
   ],
   "url": "https://github.com/toastygm/hm-ensemble/",
-    "manifest": "https://github.com/toastygm/hm-ensemble/releases/latest/download/module.json",
-    "download": "https://github.com/toastygm/hm-ensemble/releases/latest/download/module.zip","flags": {
+  "manifest": "https://github.com/toastygm/hm-ensemble/releases/latest/download/module.json",
+  "download": "https://github.com/toastygm/hm-ensemble/releases/v1.2.0/download/module.zip",
+  "flags": {
     "allowBugReporter": true
   }
 }

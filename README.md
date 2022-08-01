@@ -1,4 +1,7 @@
 # Ensemble of NPCs for HarnMaster on Foundry VTT
+[![Version (latest)](https://img.shields.io/github/v/release/toastygm/hm-ensemble)](https://github.com/toastygm/hm-ensemble/releases/latest)
+[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fhm-ensemble&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=hm-ensemble)
+[![GitHub downloads (latest)](https://img.shields.io/badge/dynamic/json?label=Downloads@latest&query=assets[?(@.name.includes('zip'))].download_count&url=https://api.github.com/repos/toastygm/hm-ensemble/releases/latest&color=green)](https://github.com/toastygm/hm-ensemble/releases/latest)
 
 This Foundry VTT module contains several compendium packs containing NPCs for you to use in your games.  The concept was to create a large set of pre-generated characters that can easily be pulled into your game as needed, of various occupations and abilities.
 
