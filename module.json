@@ -17,6 +17,16 @@
     "minimum": "10",
     "verified": "10"
   },
+  "relationships": {
+    "systems": [{
+      "id": "hm3",
+      "type": "system",
+      "manifest": "https://github.com/toastygm/HarnMaster-3-FoundryVTT/releases/latest/download/system.json",
+      "compatibility": {
+        "verified": "1.4.0"
+      }
+    }]
+  },
   "packs": [
     {
       "type": "Actor",
