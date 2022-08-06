@@ -24,9 +24,8 @@
       "id": "hm3",
       "type": "system",
       "manifest": "https://github.com/toastygm/HarnMaster-3-FoundryVTT/releases/latest/download/system.json",
-  "minimumCoreVersion": "10",
       "compatibility": {
-        "verified": "1.4.0"
+        "minimum": "1.4.0"
       }
     }]
   },
@@ -36,64 +35,56 @@
       "label": "Extras: Nobles",
       "name": "extras-nobles",
       "system": "hm3",
-      "path": "packs/extras-nobles.db",
-      "flags": {}
+      "path": "packs/extras-nobles.db"
     },
     {
       "type": "Actor",
       "label": "Extras: Serfs and Slaves",
       "name": "extras-serfs-slaves",
       "system": "hm3",
-      "path": "packs/extras-serfs-slaves.db",
-      "flags": {}
+      "path": "packs/extras-serfs-slaves.db"
     },
     {
       "type": "Actor",
       "label": "Extras: Shek-Pvar",
       "name": "extras-shek-pvar",
       "system": "hm3",
-      "path": "packs/extras-shek-pvar.db",
-      "flags": {}
+      "path": "packs/extras-shek-pvar.db"
     },
     {
       "type": "Actor",
       "label": "Extras: Unguilded",
       "name": "extras-unguilded",
       "system": "hm3",
-      "path": "packs/extras-unguilded.db",
-      "flags": {}
+      "path": "packs/extras-unguilded.db"
     },
     {
       "type": "Actor",
       "label": "Extras: Guilded",
       "name": "extras-guilded",
       "system": "hm3",
-      "path": "packs/extras-guilded.db",
-      "flags": {}
+      "path": "packs/extras-guilded.db"
     },
     {
       "type": "Actor",
       "label": "Extras: Guards",
       "name": "extras-guards",
       "system": "hm3",
-      "path": "packs/extras-guards.db",
-      "flags": {}
+      "path": "packs/extras-guards.db"
     },
     {
       "type": "Actor",
       "label": "Extras: Clerics",
       "name": "extras-clerics",
       "system": "hm3",
-      "path": "packs/extras-clerics.db",
-      "flags": {}
+      "path": "packs/extras-clerics.db"
     },
     {
       "type": "Actor",
       "label": "FFF Gargun",
       "name": "fff-gargun",
       "system": "hm3",
-      "path": "packs/fff-gargun.db",
-      "flags": {}
+      "path": "packs/fff-gargun.db"
     }
   ],
   "url": "https://github.com/toastygm/hm-ensemble/",
