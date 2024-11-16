@@ -40,6 +40,10 @@ dist/
 # Package builds
 package/
 
+# LevelDB Files
+packs/
+!packs/*/_source/
+
 # Hidden files
 nogit/
 
